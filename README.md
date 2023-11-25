@@ -28,7 +28,7 @@ Note: _All reports herein are published with the consent of our clients._
 
 | Protocol                                    | Date       | Report                                                                        | Type |
 | ------------------------------------------- | ---------- | ----------------------------------------------------------------------------- | ---- |
-| [Cyfrin Vault Guardians](https://cyfrin.io) | 2023-11-25 | [:page_facing_up:PDF](./reports/pdf/2023-11-25-kupia-cyfrin-vault-guardians.pdf) | DeFi |
+| [Cyfrin Vault Guardians](https://cyfrin.io) | 2023-11-10 | [:page_facing_up:PDF](./reports/pdf/2023-11-10-kupia-cyfrin-vault-guardians.pdf) | DeFi |
 
 <br>
 
