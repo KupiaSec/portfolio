@@ -41,7 +41,9 @@ _Note: Auditors keep 100% of the reward for public competitions_
 |--|------------|----|-------|
 |Code4rena|Llama|7 Jun 2023 - 15 Jun 2023 | [#1](https://code4rena.com/contests/2023-06-llama#top)|
 |Code4rena|Pool Together|8 Jul 2023 - 15 Jul 2023 | [#5](https://code4rena.com/contests/2023-07-pooltogether#top)|
-|CodeHawks|Beedle|24 Jul 2023 - 7 Aug, 2023 | [#50](https://www.codehawks.com/contests/clkbo1fa20009jr08nyyf9wbx)|
+|CodeHawks|Beedle|24 Jul 2023 - 7 Aug 2023 | [#50](https://www.codehawks.com/contests/clkbo1fa20009jr08nyyf9wbx)|
+|Code4rena|NextGen|31 Oct 2023 - 13 Nov 2023 | [#14](https://code4rena.com/audits/2023-10-nextgen#top)|
+|Sherlock|Nouns Builder|22 Nov 2023 - 1 Dec 2023 | [#6](https://audits.sherlock.xyz/contests/111)|
 
 <br>
 
@@ -53,7 +55,8 @@ _Note: Auditors keep 100% of the bounty_
 | Protocol | Date |Mediator|Report ID|Link | Auditors involved |
 |------------------------------|------|--|------|-----------------------------------------------|----------------------|
 | [Nayms](https://nayms.com/)| 22 Sep 2023 |[Immunefi](https://immunefi.com/bounty/nayms/)|[#24299](https://bugs.immunefi.com/dashboard/submission/24299)|[Twitter](https://twitter.com/auditor0517/status/1709502188777586837)|[auditor0517](https://twitter.com/auditor0517)|
-| [SSV Network](https://ssv.network//)| 17 Sep 2023 |[Immunefi](https://immunefi.com/bounty/ssvnetwork/)|[#24166](https://bugs.immunefi.com/dashboard/submission/24166)||[auditor0517](https://twitter.com/auditor0517)|
+| [SSV Network](https://ssv.network//)| 17 Sep 2023 |[Immunefi](https://immunefi.com/bounty/ssvnetwork/)|[#24166](https://bugs.immunefi.com/dashboard/submission/24166)|[Twitter](https://twitter.com/auditor0517/status/1732028267597537742)|[auditor0517](https://twitter.com/auditor0517)|
+| [Curve](https://curve.fi/#/ethereum/swap)| 15 Dec 2023 |[Curve Bug Bounty](https://classic.curve.fi/bugbounty)|[TBD](TBD)|[TBD](TBD)|[cr0cx](TBD)|
 
 <br>
 
