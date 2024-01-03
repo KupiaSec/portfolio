@@ -56,7 +56,7 @@ _Note: Auditors keep 100% of the bounty_
 |------------------------------|------|--|------|-----------------------------------------------|----------------------|
 | [Nayms](https://nayms.com/)| 22 Sep 2023 |[Immunefi](https://immunefi.com/bounty/nayms/)|[#24299](https://bugs.immunefi.com/dashboard/submission/24299)|[Twitter](https://twitter.com/auditor0517/status/1709502188777586837)|[auditor0517](https://twitter.com/auditor0517)|
 | [SSV Network](https://ssv.network//)| 17 Sep 2023 |[Immunefi](https://immunefi.com/bounty/ssvnetwork/)|[#24166](https://bugs.immunefi.com/dashboard/submission/24166)|[Twitter](https://twitter.com/auditor0517/status/1732028267597537742)|[auditor0517](https://twitter.com/auditor0517)|
-| [Curve](https://curve.fi/#/ethereum/swap)| 15 Dec 2023 |[Curve Bug Bounty](https://classic.curve.fi/bugbounty)|[TBD](TBD)|[TBD](TBD)|[cr0cx](TBD)|
+| [Curve](https://curve.fi/#/ethereum/swap)| 15 Dec 2023 |[Curve Bug Bounty](https://classic.curve.fi/bugbounty)|[TBD](TBD)|[TBD](TBD)|[cr0cx](https://twitter.com/malicator)|
 
 <br>
 
