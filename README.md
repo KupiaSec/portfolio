@@ -39,10 +39,12 @@ Note: _All reports herein are published with the consent of our clients._
 _Note: Auditors keep 100% of the reward for public competitions_
 |Platform|Competition|Date|Ranking|
 |--|------------|----|-------|
+|Sherlock|Seismic Finance|Mar 22, 2024 - Mar 25, 2024|[#2](https://twitter.com/sherlockdefi/status/1783560850034373066)|
+|Sherlock|100x|Feb 2, 2024 - Feb 13, 2024|[#4](https://audits.sherlock.xyz/contests/153)|
+|Sherlock|Ubiquity|Jan 2, 2024 - Jan 10, 2024|[#6](https://audits.sherlock.xyz/contests/138)|
+|Sherlock|Olympus RBS|Dec 5, 2023 - Dec 26, 2023|[#5](https://audits.sherlock.xyz/contests/128)|
 |Code4rena|Llama|7 Jun 2023 - 15 Jun 2023 | [#1](https://code4rena.com/contests/2023-06-llama#top)|
 |Code4rena|Pool Together|8 Jul 2023 - 15 Jul 2023 | [#5](https://code4rena.com/contests/2023-07-pooltogether#top)|
-|CodeHawks|Beedle|24 Jul 2023 - 7 Aug 2023 | [#50](https://www.codehawks.com/contests/clkbo1fa20009jr08nyyf9wbx)|
-|Code4rena|NextGen|31 Oct 2023 - 13 Nov 2023 | [#14](https://code4rena.com/audits/2023-10-nextgen#top)|
 |Sherlock|Nouns Builder|22 Nov 2023 - 1 Dec 2023 | [#6](https://audits.sherlock.xyz/contests/111)|
 
 <br>
