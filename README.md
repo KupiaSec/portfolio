@@ -43,9 +43,12 @@ _Note: Auditors keep 100% of the reward for public competitions_
 |Sherlock|100x|Feb 2, 2024 - Feb 13, 2024|[#4](https://audits.sherlock.xyz/contests/153)|
 |Sherlock|Ubiquity|Jan 2, 2024 - Jan 10, 2024|[#6](https://audits.sherlock.xyz/contests/138)|
 |Sherlock|Olympus RBS|Dec 5, 2023 - Dec 26, 2023|[#5](https://audits.sherlock.xyz/contests/128)|
-|Code4rena|Llama|7 Jun 2023 - 15 Jun 2023 | [#1](https://code4rena.com/contests/2023-06-llama#top)|
-|Code4rena|Pool Together|8 Jul 2023 - 15 Jul 2023 | [#5](https://code4rena.com/contests/2023-07-pooltogether#top)|
-|Sherlock|Nouns Builder|22 Nov 2023 - 1 Dec 2023 | [#6](https://audits.sherlock.xyz/contests/111)|
+|Sherlock|Nouns Builder|Nov 22, 2023 - Dec 1, 2023|[#6](https://audits.sherlock.xyz/contests/111)|
+|Code4rena|Pool Together|Jul 5, 2023 - Jul 15, 2023|[#5](https://code4rena.com/contests/2023-07-pooltogether#top)|
+|Code4rena|Angle Protocol|Jun 28, 2023 - Jul 7, 2023|[#1](https://code4rena.com/audits/2023-06-angle-protocol-invitational#top)|
+|Code4rena|Llama|Jun 7, 2023 - Jun 15, 2023|[#1](https://code4rena.com/contests/2023-06-llama#top)|
+|Code4rena|ENS|Apr 14, 2023 - Apr 28, 2023|[#4](https://code4rena.com/audits/2023-04-ens-contest#top)|
+|Code4rena|Polynomial Protocol|Mar 13, 2023 - Mar 20, 2023| [#10](https://code4rena.com/audits/2023-03-polynomial-protocol-contest#top)|
 
 <br>
 
