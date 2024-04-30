@@ -13,6 +13,7 @@ KupiaSec is a distinguished smart contract audit firm verified through public co
 
 
 <h1 class="center" style=""> Highlight </h1>
+
 ![highlight](./highlight.png)
 
 
