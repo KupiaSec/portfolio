@@ -11,24 +11,32 @@
 
 KupiaSec is a distinguished smart contract audit firm verified through public contests. KupiaSec employs a [Multi-Phase Audit (MPA)](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F2wLrli4OmSaWiS8fXVUZ%2Fuploads%2FF27bi4xOgnXwDYeHS68f%2FDC%20Multi-Phase%20Audit.pdf?alt=media&token=c2ffdb11-13c7-439d-8acf-50e9fdff471e) process for the Private Audits, which consists of a **Solo Audit by a Lead Auditor**, an **Internal Competition** among all auditors, and a **Mitigation Review** to address the findings.
 
+
+<h1 class="center" style=""> Highlight </h1>
+
+
 <br>
+
 
 <h3><ins>Table of Contents</ins></h3>
 
-- [Private Audits](#private-audits)
-- [Competitions](#competitions)
 - [Bug Bounty Reports](#bug-bounty-reports)
+- [Competitions](#competitions)
+- [Private Audits](#private-audits)
 
 <hr>
+
 <br>
 
-## Private Audits
+## Bug Bounty Reports
 
-Note: _All reports herein are published with the consent of our clients._
+_Note: Auditors keep 100% of the bounty_
+| Protocol | Date |Mediator|Report ID|Link | Auditors involved |
+|------------------------------|------|--|------|-----------------------------------------------|----------------------|
+| [Curve](https://curve.fi/#/ethereum/swap)| 29 Nov 2023 |[Curve Bug Bounty](https://classic.curve.fi/bugbounty)|[Medium](https://medium.com/@kupiasec/e43401997cce)|[PoC](https://github.com/KupiaSec/bounties/blob/main/curve2312/2023-11-29-curve-dos.t.sol)|[cr0cx](https://twitter.com/malicator)|
+| [Nayms](https://nayms.com/)| 22 Sep 2023 |[Immunefi](https://immunefi.com/bounty/nayms/)|[#24299](https://bugs.immunefi.com/dashboard/submission/24299)|[Twitter](https://twitter.com/auditor0517/status/1709502188777586837)|[auditor0517](https://twitter.com/auditor0517)|
+| [SSV Network](https://ssv.network//)| 17 Sep 2023 |[Immunefi](https://immunefi.com/bounty/ssvnetwork/)|[#24166](https://bugs.immunefi.com/dashboard/submission/24166)|[Twitter](https://twitter.com/auditor0517/status/1732028267597537742)|[auditor0517](https://twitter.com/auditor0517)|
 
-| Protocol                                    | Date       | Report                                                                        | Type |
-| ------------------------------------------- | ---------- | ----------------------------------------------------------------------------- | ---- |
-| [Cyfrin Vault Guardians](https://cyfrin.io) | 2023-11-10 | [:page_facing_up:PDF](./reports/pdf/2023-11-10-kupia-cyfrin-vault-guardians.pdf) | DeFi |
 
 <br>
 
@@ -52,16 +60,16 @@ _Note: Auditors keep 100% of the reward for public competitions_
 
 <br>
 
+
 <br>
 
-## Bug Bounty Reports
+## Private Audits
 
-_Note: Auditors keep 100% of the bounty_
-| Protocol | Date |Mediator|Report ID|Link | Auditors involved |
-|------------------------------|------|--|------|-----------------------------------------------|----------------------|
-| [Nayms](https://nayms.com/)| 22 Sep 2023 |[Immunefi](https://immunefi.com/bounty/nayms/)|[#24299](https://bugs.immunefi.com/dashboard/submission/24299)|[Twitter](https://twitter.com/auditor0517/status/1709502188777586837)|[auditor0517](https://twitter.com/auditor0517)|
-| [SSV Network](https://ssv.network//)| 17 Sep 2023 |[Immunefi](https://immunefi.com/bounty/ssvnetwork/)|[#24166](https://bugs.immunefi.com/dashboard/submission/24166)|[Twitter](https://twitter.com/auditor0517/status/1732028267597537742)|[auditor0517](https://twitter.com/auditor0517)|
-| [Curve](https://curve.fi/#/ethereum/swap)| 15 Dec 2023 |[Curve Bug Bounty](https://classic.curve.fi/bugbounty)|[TBD](TBD)|[TBD](TBD)|[cr0cx](https://twitter.com/malicator)|
+Note: _All reports herein are published with the consent of our clients._
+
+| Protocol                                    | Date       | Report                                                                        | Type |
+| ------------------------------------------- | ---------- | ----------------------------------------------------------------------------- | ---- |
+| [Cyfrin Vault Guardians](https://cyfrin.io) | 2023-11-10 | [:page_facing_up:PDF](./reports/pdf/2023-11-10-kupia-cyfrin-vault-guardians.pdf) | DeFi |
 
 <br>
 
