@@ -44,12 +44,13 @@ _Note: Auditors keep 100% of the bounty_
 
 <br>
 
-## Competitions
+## Public Competitions
 
 _Note: Auditors keep 100% of the reward for public competitions_
 |Platform|Competition|Date|Ranking|
 |--|------------|----|-------|
 |Code4rena|Panoptic|Apr 1, 2024 - Apr 22, 2024|[#3](https://code4rena.com/audits/2024-04-panoptic#top)|
+|Cantina|Curvance|Feb 26, 2024 - Apr 15, 2024|[#5](https://cantina.xyz/competitions/ac757733-81a4-43c7-8f49-17c5b135cdff)|
 |Sherlock|Seismic Finance|Mar 22, 2024 - Mar 25, 2024|[#2](https://twitter.com/sherlockdefi/status/1783560850034373066)|
 |Sherlock|100x|Feb 2, 2024 - Feb 13, 2024|[#4](https://audits.sherlock.xyz/contests/153)|
 |Sherlock|Ubiquity|Jan 2, 2024 - Jan 10, 2024|[#6](https://audits.sherlock.xyz/contests/138)|
