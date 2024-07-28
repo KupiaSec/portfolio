@@ -23,7 +23,7 @@ KupiaSec is a distinguished smart contract audit firm verified through public co
 <h3><ins>Table of Contents</ins></h3>
 
 - [Bug Bounty Reports](#bug-bounty-reports)
-- [Competitions](#competitions)
+- [Public Competitions](#public-competitions)
 - [Private Audits](#private-audits)
 
 <hr>
@@ -48,6 +48,9 @@ _Note: Auditors keep 100% of the bounty_
 
 |Platform|Competition|Date|Ranking|
 |--|------------|----|-------|
+|Code4rena|Size|June 10, 2024 - July 2, 2024|[#2](https://code4rena.com/audits/2024-06-size#top)|
+|Sherlock|Orderly Network|June 20, 2024 - June 30, 2024|[#1](https://audits.sherlock.xyz/contests/404)|
+|Sherlock|dHEDGE|June 2, 2024 - June 22, 2024|[#8](https://audits.sherlock.xyz/contests/288)|
 |Sherlock|Telcoin Wallet|June 4, 2024 - June 9, 2024|[#1](https://audits.sherlock.xyz/contests/299)|
 |Sherlock|Arrakis Vault|May 15, 2024 - June 4, 2024|[#4](https://audits.sherlock.xyz/contests/195)|
 |Sherlock|Napier Finance|May 13, 2024 - May 20, 2024|[#6](https://audits.sherlock.xyz/contests/369)|
