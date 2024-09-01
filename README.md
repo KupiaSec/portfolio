@@ -48,6 +48,10 @@ _Note: Auditors keep 100% of the bounty_
 
 |Platform|Competition|Date|Ranking|
 |--|------------|----|-------|
+|Code4rena|Karak Staking|Jul 16, 2024 - Jul 30, 2024|[#1](https://code4rena.com/audits/2024-07-karak-restaking#top)|
+|Sherlock|Super Boring|Jul 11, 2024 - Jul 17, 2024|[#3](https://audits.sherlock.xyz/contests/360)|
+|Sherlock|Deepr Finance|Jul 1, 2024 - Jul 11, 2024|[#3](https://audits.sherlock.xyz/contests/433)|
+|Sherlock|MagicSea|Jul 1, 2024 - Jul 11, 2024|[#3](https://audits.sherlock.xyz/contests/437)|
 |Code4rena|Size|June 10, 2024 - July 2, 2024|[#2](https://code4rena.com/audits/2024-06-size#top)|
 |Sherlock|Orderly Network|June 20, 2024 - June 30, 2024|[#1](https://audits.sherlock.xyz/contests/404)|
 |Sherlock|dHEDGE|June 2, 2024 - June 22, 2024|[#8](https://audits.sherlock.xyz/contests/288)|
