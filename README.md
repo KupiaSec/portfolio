@@ -48,6 +48,9 @@ _Note: Auditors keep 100% of the bounty_
 
 |Platform|Competition|Date|Ranking|
 |--|------------|----|-------|
+|Sherlock|Verla Artha PerpDEX|Aug 30, 2024 - Sep 9, 2024|[#3](https://audits.sherlock.xyz/contests/526?filter=results)|
+|Code4rena|Fenix Finance Invitational|Sep 18, 2024 - Sep 25, 2024|[#1](https://code4rena.com/audits/2024-09-fenix-finance-invitational)|
+|Code4rena|Doubler Mitigation|Aug 27, 2024 - Sep 3, 2024|[#1](https://code4rena.com/audits/2024-08-doubler-mitigation-review)|
 |Code4rena|Karak Staking|Jul 16, 2024 - Jul 30, 2024|[#1](https://code4rena.com/audits/2024-07-karak-restaking#top)|
 |Sherlock|Super Boring|Jul 11, 2024 - Jul 17, 2024|[#3](https://audits.sherlock.xyz/contests/360)|
 |Sherlock|Deepr Finance|Jul 1, 2024 - Jul 11, 2024|[#3](https://audits.sherlock.xyz/contests/433)|
