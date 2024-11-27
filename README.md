@@ -87,6 +87,7 @@ Note: _All reports herein are published with the consent of our clients._
 
 | Protocol                                    | Date       | Report                                                                        | Type |
 | ------------------------------------------- | ---------- | ----------------------------------------------------------------------------- | ---- |
+|[Keiko Finance](https://keikofinance.com/)|2024-11-24|[Keiko Finance Report](./reports/pdf/2024-11-keiko-finance.pdf)|DeFi|
 | [Cyfrin Vault Guardians](https://cyfrin.io) | 2023-11-10 | [:page_facing_up:PDF](./reports/pdf/2023-11-10-kupia-cyfrin-vault-guardians.pdf) | DeFi |
 
 <br>
