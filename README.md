@@ -35,17 +35,21 @@ KupiaSec is a distinguished smart contract audit firm verified through public co
 |Platform|Competition|Date|Ranking|
 |--|------------|----|-------|
 |Sherlock|FlatMoney v2 Update|Jan 6, 2025 - Jan 15, 2025|[#1](https://audits.sherlock.xyz/contests/620?filter=results)|
+|Sherlock|Usual V1|Oct 29, 2024 - Nov 10, 2024|[#1](https://audits.sherlock.xyz/contests/575?filter=results)|
+|Code4rena|Audit 459 Invitational|Oct 24, 2024 - Nov 1, 2024|[#1](https://code4rena.com/audits/2024-10-audit-459-invitational)|
+|Code4rena|ULTI Invitational|Oct 3, 2024 - Oct 8, 2024|[#1](https://code4rena.com/audits/2024-10-ulti-invitational)|
 |Code4rena|Fenix Finance Invitational|Sep 18, 2024 - Sep 25, 2024|[#1](https://code4rena.com/audits/2024-09-fenix-finance-invitational)|
 |Code4rena|Doubler Mitigation|Aug 27, 2024 - Sep 3, 2024|[#1](https://code4rena.com/audits/2024-08-doubler-mitigation-review)|
 |Code4rena|Karak Staking|Jul 16, 2024 - Jul 30, 2024|[#1](https://code4rena.com/audits/2024-07-karak-restaking#top)|
 |Sherlock|Orderly Network|June 20, 2024 - June 30, 2024|[#1](https://audits.sherlock.xyz/contests/404)|
 |Sherlock|Telcoin Wallet|June 4, 2024 - June 9, 2024|[#1](https://audits.sherlock.xyz/contests/299)|
+|Code4rena|SecondSwap|Dec 10, 2024 - Dec 20, 2024|[#2](https://code4rena.com/audits/2024-12-secondswap)|
 |Sherlock|RuneMine by Mine Labs’|Nov 19, 2024 - Nov 28, 2024|[#2](https://audits.sherlock.xyz/contests/513?filter=results)|
-|Sherlock|Usual V1|Oct 29, 2024 - Nov 10, 2024|[#2](https://audits.sherlock.xyz/contests/575?filter=results)|
 |Sherlock|Exactly Protocol Update|Jul 22, 2024 - Jul 25, 2024|[#2](https://audits.sherlock.xyz/contests/396?filter=results)|
 |Code4rena|Size|June 10, 2024 - Jul 2, 2024|[#2](https://code4rena.com/audits/2024-06-size#top)|
-|Sherlock|Seismic Finance|Mar 22, 2024 - Mar 25, 2024|[#2](https://twitter.com/sherlockdefi/status/1783560850034373066)|
+|Sherlock|Seismic Finance|Mar 22, 2024 - Mar 25, 2024|[#2](https://audits.sherlock.xyz/contests/272/leaderboard)|
 |Sherlock|Teller Lender Groups Update|Dec 4, 2024 - Dec 10, 2024|[#3](https://audits.sherlock.xyz/contests/472?filter=results)|
+|Cantina|Whetstone / doppler-contracts|Jan 16, 2025 - Jan 23, 2025|[#3](https://cantina.xyz/competitions/57b00aab-8f8b-4d62-9378-41b6460ce6aa/leaderboard)|
 |Sherlock|Extra Finance|Nov 20, 2024 - Dec 1, 2024|[#3](https://audits.sherlock.xyz/contests/380?filter=results)|
 |Sherlock|Chiliz Chain System Contracts|Nov 15, 2024 - Nov 23, 2024|[#3](https://audits.sherlock.xyz/contests/550?filter=results)|
 |Sherlock|Velar Artha PerpDEX|Aug 30, 2024 - Sep 9, 2024|[#3](https://audits.sherlock.xyz/contests/526?filter=results)|
@@ -54,12 +58,6 @@ KupiaSec is a distinguished smart contract audit firm verified through public co
 |Sherlock|MagicSea|Jul 1, 2024 - Jul 11, 2024|[#3](https://audits.sherlock.xyz/contests/437)|
 |Sherlock|Gamma Staking|May 17, 2024 - May 20, 2024|[#3](https://audits.sherlock.xyz/contests/330)|
 |Code4rena|Panoptic|Apr 1, 2024 - Apr 22, 2024|[#3](https://code4rena.com/audits/2024-04-panoptic#top)|
-|Sherlock|Numa|Dec 9, 2024 - Dec 31, 2024|[#4](https://audits.sherlock.xyz/contests/554?filter=results)|
-|Sherlock|Arrakis Vault|May 15, 2024 - June 4, 2024|[#4](https://audits.sherlock.xyz/contests/195)|
-|Sherlock|100x|Feb 2, 2024 - Feb 13, 2024|[#4](https://audits.sherlock.xyz/contests/153)|
-|Sherlock|Idle Finance Credit Vaults|Dec 13, 2024 - Dec 21, 2024|[#5](https://audits.sherlock.xyz/contests/571?filter=results)|
-|Sherlock|Avantis v1.5: Cross-Asset Leverage|Oct 8, 2024 - Nov 1, 2024|[#5](https://audits.sherlock.xyz/contests/485?filter=results)|
-|Cantina|Curvance|Feb 26, 2024 - Apr 15, 2024|[#5](https://cantina.xyz/competitions/ac757733-81a4-43c7-8f49-17c5b135cdff)|
 
 <br>
 
