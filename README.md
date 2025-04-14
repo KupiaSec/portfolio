@@ -71,9 +71,9 @@ Note: _All reports herein are published with the consent of our clients._
 | Protocol                                    | Date       | Report                                                                           | Type |
 |---------------------------------------------|------------|----------------------------------------------------------------------------------| ---- |
 | [Uniswap Swap Router](https://v4.uniswap.org/)      | 2025-03-20 | [TBD]()                          |DeFi|
-| [Solar DEX](https://keikofinance.com/)      | 2024-12-06 | [Solar DEX Report](./reports/pdf/2024-12-solar-dex.pdf)                          |DeFi|
-| [Clober DEX](https://www.clober.io)     | 2024-11-28 | [Clober Rebalancer Report](./reports/pdf/2024-12-clober-rebalancer.pdf)          |DeFi|
-| [Keiko Finance](https://keikofinance.com/)  | 2024-11-24 | [Keiko Finance Report](./reports/pdf/2024-11-keiko-finance.pdf)                  |DeFi|
-| [Cyfrin Vault Guardians](https://cyfrin.io) | 2023-11-10 | [Cyfrin Vault Guardians Report](./reports/pdf/2023-11-10-kupia-cyfrin-vault-guardians.pdf) | DeFi |
+| [Solar DEX](https://keikofinance.com/)      | 2024-12-06 | [Solar DEX Report](./reports/2024-12-solar-dex.pdf)                          |DeFi|
+| [Clober DEX](https://www.clober.io)     | 2024-11-28 | [Clober Rebalancer Report](./reports/2024-12-clober-rebalancer.pdf)          |DeFi|
+| [Keiko Finance](https://keikofinance.com/)  | 2024-11-24 | [Keiko Finance Report](./reports/2024-11-keiko-finance.pdf)                  |DeFi|
+| [Cyfrin Vault Guardians](https://cyfrin.io) | 2023-11-10 | [Cyfrin Vault Guardians Report](./reports/2023-11-10-kupia-cyfrin-vault-guardians.pdf) | DeFi |
 
 <br>
