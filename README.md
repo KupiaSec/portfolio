@@ -71,21 +71,10 @@ Note: _All reports herein are published with the consent of our clients._
 
 | Protocol                                    | Date       | Report                                                                           | Type |
 |---------------------------------------------|------------|----------------------------------------------------------------------------------| ---- |
+| [Uniswap Swap Router](https://v4.uniswap.org/)      | 2025-03-20 | [TBD]()                          |DeFi|
 | [Solar DEX](https://keikofinance.com/)      | 2024-12-06 | [Solar DEX Report](./reports/pdf/2024-12-solar-dex.pdf)                          |DeFi|
 | [Clober DEX](https://www.clober.io)     | 2024-11-28 | [Clober Rebalancer Report](./reports/pdf/2024-12-clober-rebalancer.pdf)          |DeFi|
 | [Keiko Finance](https://keikofinance.com/)  | 2024-11-24 | [Keiko Finance Report](./reports/pdf/2024-11-keiko-finance.pdf)                  |DeFi|
-| [Cyfrin Vault Guardians](https://cyfrin.io) | 2023-11-10 | [:page_facing_up:PDF](./reports/pdf/2023-11-10-kupia-cyfrin-vault-guardians.pdf) | DeFi |
-
-<br>
-
-## Bug Bounty Reports
-
-_Note: Auditors keep 100% of the bounty_
-| Protocol | Date |Mediator|Report ID|Link | Auditors involved |
-|------------------------------|------|--|------|-----------------------------------------------|----------------------|
-| [Curve](https://curve.fi/#/ethereum/swap)| 29 Nov 2023 |[Curve Bug Bounty](https://classic.curve.fi/bugbounty)|[Medium](https://medium.com/@kupiasec/e43401997cce)|[PoC](https://github.com/KupiaSec/bounties/blob/main/curve2312/2023-11-29-curve-dos.t.sol)|[Marco Croc](https://twitter.com/malicator)|
-| [Nayms](https://nayms.com/)| 22 Sep 2023 |[Immunefi](https://immunefi.com/bounty/nayms/)|[#24299](https://bugs.immunefi.com/dashboard/submission/24299)|[Twitter](https://twitter.com/auditor0517/status/1709502188777586837)|[auditor0517](https://twitter.com/auditor0517)|
-| [SSV Network](https://ssv.network//)| 17 Sep 2023 |[Immunefi](https://immunefi.com/bounty/ssvnetwork/)|[#24166](https://bugs.immunefi.com/dashboard/submission/24166)|[Twitter](https://twitter.com/auditor0517/status/1732028267597537742)|[auditor0517](https://twitter.com/auditor0517)|
-
+| [Cyfrin Vault Guardians](https://cyfrin.io) | 2023-11-10 | [Cyfrin Vault Guardians Report](./reports/pdf/2023-11-10-kupia-cyfrin-vault-guardians.pdf) | DeFi |
 
 <br>
