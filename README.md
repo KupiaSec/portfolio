@@ -31,8 +31,9 @@ KupiaSec is a distinguished smart contract audit firm verified through public co
 
 ## Public Competitions
 
-|Platform|Competition|Finish Date|Ranking|
+|Platform|Competition|End Date|Ranking|
 |--|------------|----|-------|
+|Cantina|infiniFi / infinifi-protocol|29 Apr 2025|[🥇](https://cantina.xyz/competitions/2ac7f906-1661-47eb-bfd6-519f5db0d36b/leaderboard)|
 |Cantina|Inclusive Finance / inclusive-monorepo|Jan 30, 2025|[🥇](https://cantina.xyz/competitions/3eff5a8f-b73a-4cfe-8c54-546b475548f0/leaderboard)|
 |Sherlock|FlatMoney v2 Update|Jan 15, 2025|[🥇](https://audits.sherlock.xyz/contests/620?filter=results)|
 |Sherlock|Usual V1|Nov 10, 2024|[🥇](https://audits.sherlock.xyz/contests/575?filter=results)|
@@ -49,6 +50,7 @@ KupiaSec is a distinguished smart contract audit firm verified through public co
 |Sherlock|Exactly Protocol Update|Jul 25, 2024|[🥈](https://audits.sherlock.xyz/contests/396?filter=results)|
 |Code4rena|Size|Jul 2, 2024|[🥈](https://code4rena.com/audits/2024-06-size#top)|
 |Sherlock|Seismic Finance|Mar 25, 2024|[🥈](https://audits.sherlock.xyz/contests/272/leaderboard)|
+|Code4rena|Kinetiq|Apr 17, 2025|[🥉](https://code4rena.com/audits/2025-04-kinetiq)|
 |CodeHawks|Zaros Part 2|Feb 6, 2025|[🥉](https://codehawks.cyfrin.io/c/2025-01-zaros-part-2/results?lt=contest&page=1&sc=reward&sj=reward&t=leaderboard)|
 |Cantina|Napier Finance / napier-v2|Feb 11, 2025|[🥉](https://cantina.xyz/competitions/58cd719b-9004-4eca-a113-41d1691c0711/leaderboard)|
 |Sherlock|Teller Lender Groups Update|Dec 10, 2024|[🥉](https://audits.sherlock.xyz/contests/472?filter=results)|
@@ -68,12 +70,19 @@ KupiaSec is a distinguished smart contract audit firm verified through public co
 
 Note: _All reports herein are published with the consent of our clients._
 
-| Protocol                                    | Date       | Report                                                                           | Type |
-|---------------------------------------------|------------|----------------------------------------------------------------------------------| ---- |
-| [Uniswap Swap Router](https://v4.uniswap.org/)      | 2025-03-20 | [TBD]()                          |DeFi|
-| [Solar DEX](https://keikofinance.com/)      | 2024-12-06 | [Solar DEX Report](./reports/2024-12-solar-dex.pdf)                          |DeFi|
-| [Clober DEX](https://www.clober.io)     | 2024-11-28 | [Clober Rebalancer Report](./reports/2024-12-clober-rebalancer.pdf)          |DeFi|
-| [Keiko Finance](https://keikofinance.com/)  | 2024-11-24 | [Keiko Finance Report](./reports/2024-11-keiko-finance.pdf)                  |DeFi|
-| [Cyfrin Vault Guardians](https://cyfrin.io) | 2023-11-10 | [Cyfrin Vault Guardians Report](./reports/2023-11-10-kupia-cyfrin-vault-guardians.pdf) | DeFi |
+| Protocol                                    | Date       | Report                                                                           |
+|---------------------------------------------|------------|----------------------------------------------------------------------------------|
+| [Ethena Timelock](https://ethena.fi/)| May 27, 2025 | [Ethena Timelock Report](./reports/2025-05-ethena-timelock.pdf)|
+| [RootsFi](https://rootsfi.com/)| May 25, 2025 | [Sherlock Collaborative Audit]()|
+| [Lazy Bear]()| Apr 25, 2025 | [Sherlock Collaborative Audit]()|
+| [Jigsaw](https://www.jigsaw.finance/)| Mar 25, 2025 | [Sherlock Collaborative Audit]()|
+| [Uniswap Swap Router](https://v4.uniswap.org/)| Mar 20, 2025 | [Private]()|
+| [Rain Solana](https://www.rain.xyz/)| Jan 15, 2025 | [Sherlock Collaborative Audit]()|
+| [GMX Solana](https://gmxsol.io/)| Dec 24, 2024 | [Sherlock Collaborative Audit]()|
+| [Solar DEX](https://solardex.finance/)| Dec 6, 2024 | [Solar DEX Report](./reports/2024-12-solar-dex.pdf)|
+| [Clober DEX](https://www.clober.io)| Nov 28, 2024 | [Clober Rebalancer Report](./reports/2024-12-clober-rebalancer.pdf)|
+| [Keiko Finance](https://keikofinance.com/)  | Nov 24, 2024 | [Keiko Finance Report](./reports/2024-11-keiko-finance.pdf)|
+| [GMX Solana Blackthorn](https://gmxsol.io/)| Nov 23, 2024 | [Sherlock Collaborative Audit]()|
+| [Vault Guardians]() | Nov 10, 2023 | [Vault Guardians Report](./reports/2023-11-10-kupia-cyfrin-vault-guardians.pdf) |
 
 <br>
