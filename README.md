@@ -72,6 +72,7 @@ Note: _All reports herein are published with the consent of our clients._
 
 | Protocol                                    | Date       | Report                                                                           |
 |---------------------------------------------|------------|----------------------------------------------------------------------------------|
+| [Poof Policy-grandmAIsters](https://dev.grandmaisters.com) | Aug 5, 2025 | [GrandmAIsters Report](./reports/2025-08-poof-policy.pdf) |
 | [Ethena Timelock](https://ethena.fi/)| May 27, 2025 | [Ethena Timelock Report](./reports/2025-05-ethena-timelock.pdf)|
 | [RootsFi](https://rootsfi.com/)| May 25, 2025 | [Sherlock Collab Audit]()|
 | [Lazy Bear]()| Apr 25, 2025 | [Sherlock Collab Audit]()|
