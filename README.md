@@ -45,12 +45,14 @@ KupiaSec is a distinguished smart contract audit firm verified through public co
 |Code4rena|Karak Staking|Jul 30, 2024|[🥇](https://code4rena.com/audits/2024-07-karak-restaking#top)|
 |Sherlock|Orderly Network|June 30, 2024|[🥇](https://audits.sherlock.xyz/contests/404)|
 |Sherlock|Telcoin Wallet|June 9, 2024|[🥇](https://audits.sherlock.xyz/contests/299)|
+|Cantina|genius-contracts|Jul 3, 2025|[🥈](https://cantina.xyz/competitions/12acc80c-4e4c-4081-a0a3-faa92150651a/leaderboard)|
 |Code4rena|Next Generation|Feb 8, 2025|[🥈](https://code4rena.com/audits/2025-01-next-generation)|
 |Code4rena|SecondSwap|Dec 20, 2024|[🥈](https://code4rena.com/audits/2024-12-secondswap)|
 |Sherlock|RuneMine by Mine Labs’|Nov 28, 2024|[🥈](https://audits.sherlock.xyz/contests/513?filter=results)|
 |Sherlock|Exactly Protocol Update|Jul 25, 2024|[🥈](https://audits.sherlock.xyz/contests/396?filter=results)|
 |Code4rena|Size|Jul 2, 2024|[🥈](https://code4rena.com/audits/2024-06-size#top)|
 |Sherlock|Seismic Finance|Mar 25, 2024|[🥈](https://audits.sherlock.xyz/contests/272/leaderboard)|
+|Cantina|pike-tapio-monorepo|Jul 15, 2025|[🥉](https://cantina.xyz/competitions/a0806644-7d91-457a-a08d-aee2db73f352/leaderboard)|
 |Code4rena|Kinetiq|Apr 17, 2025|[🥉](https://code4rena.com/audits/2025-04-kinetiq)|
 |Cantina|Napier Finance / napier-v2|Feb 11, 2025|[🥉](https://cantina.xyz/competitions/58cd719b-9004-4eca-a113-41d1691c0711/leaderboard)|
 |CodeHawks|Zaros Part 2|Feb 6, 2025|[🥉](https://codehawks.cyfrin.io/c/2025-01-zaros-part-2/results?lt=contest&page=1&sc=reward&sj=reward&t=leaderboard)|
