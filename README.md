@@ -75,6 +75,8 @@ Note: _All reports herein are published with the consent of our clients._
 
 | Protocol                                    | Date       | Report                                                                           |
 |---------------------------------------------|------------|----------------------------------------------------------------------------------|
+| [Fungible]() | Sep 19, 2025 | [Sherlock Collab Audit]() |
+| [Bet-on-it]() | Sep 8, 2025 | [Sherlock Collab Audit]() |
 | [Poof Policy-grandmAIsters](https://dev.grandmaisters.com) | Aug 5, 2025 | [GrandmAIsters Report](./reports/2025-08-poof-policy.pdf) |
 | [Ethena Timelock](https://ethena.fi/)| May 27, 2025 | [Ethena Timelock Report](./reports/2025-05-ethena-timelock.pdf)|
 | [RootsFi](https://rootsfi.com/)| May 25, 2025 | [Sherlock Collab Audit]()|
