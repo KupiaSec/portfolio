@@ -46,6 +46,7 @@ KupiaSec is a distinguished smart contract audit firm verified through public co
 |Sherlock|Orderly Network|June 30, 2024|[🥇](https://audits.sherlock.xyz/contests/404)|
 |Sherlock|Telcoin Wallet|June 9, 2024|[🥇](https://audits.sherlock.xyz/contests/299)|
 |Cantina|genius-contracts|Jul 3, 2025|[🥈](https://cantina.xyz/competitions/12acc80c-4e4c-4081-a0a3-faa92150651a/leaderboard)|
+|Cantina|mystic-monorepo|May 19, 2025|[🥈](https://cantina.xyz/code/c160af78-28f8-47f7-9926-889b3864c6d8/overview/leaderboard)|
 |Code4rena|Next Generation|Feb 8, 2025|[🥈](https://code4rena.com/audits/2025-01-next-generation)|
 |Code4rena|SecondSwap|Dec 20, 2024|[🥈](https://code4rena.com/audits/2024-12-secondswap)|
 |Sherlock|RuneMine by Mine Labs’|Nov 28, 2024|[🥈](https://audits.sherlock.xyz/contests/513?filter=results)|
