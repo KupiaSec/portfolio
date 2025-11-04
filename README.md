@@ -33,6 +33,7 @@ KupiaSec is a distinguished smart contract audit firm verified through public co
 
 |Platform|Competition|End Date|Ranking|
 |--|------------|----|-------|
+|Sherlock|Yield Basis|Sept 9, 2025|[🥇](https://audits.sherlock.xyz/contests/1102?filter=results)|
 |Cantina|ammalgam-contracts|30 Jul 2025|[🥇](https://cantina.xyz/competitions/02c29467-cb27-4beb-b2ef-500ad95e1a51/leaderboard)|
 |Cantina|infiniFi / infinifi-protocol|29 Apr 2025|[🥇](https://cantina.xyz/competitions/2ac7f906-1661-47eb-bfd6-519f5db0d36b/leaderboard)|
 |Cantina|Inclusive Finance / inclusive-monorepo|Jan 30, 2025|[🥇](https://cantina.xyz/competitions/3eff5a8f-b73a-4cfe-8c54-546b475548f0/leaderboard)|
@@ -76,6 +77,8 @@ Note: _All reports herein are published with the consent of our clients._
 
 | Protocol                                    | Date       | Report                                                                           |
 |---------------------------------------------|------------|----------------------------------------------------------------------------------|
+| [Valahalla]() | Oct 4, 2025 | [Sherlock Collab Audit]() |
+| [Meteora]() | Sep 29, 2025 | [Sherlock Collab Audit]() |
 | [Fungible]() | Sep 19, 2025 | [Sherlock Collab Audit]() |
 | [Bet-on-it]() | Sep 8, 2025 | [Sherlock Collab Audit]() |
 | [Poof Policy-grandmAIsters](https://dev.grandmaisters.com) | Aug 5, 2025 | [GrandmAIsters Report](./reports/2025-08-poof-policy.pdf) |
